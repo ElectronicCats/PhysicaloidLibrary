@@ -3,7 +3,7 @@ Physicaloid Library
 
 NOTE: This fork modified to work with PID VID CODES and Arduino USB Serial Extension, Electronic Cats board use PID Codes
 
-# Arduino USB Serial Extension
+# [Arduino USB Serial Extension](https://community.thunkable.com/t/free-arduino-usb-serial-extension/2624)
 This extension for all Arduino lovers to be used in your projects. This extension has been created using Physicaloid library.
 
 Some highlights of this extension:
