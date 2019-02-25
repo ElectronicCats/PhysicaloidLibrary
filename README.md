@@ -1,6 +1,37 @@
 Physicaloid Library
 ==================
 
+NOTE: This fork modified to work with PID VID CODES and Arduino USB Serial Extension, Electronic Cats board use PID Codes
+
+# Arduino USB Serial Extension
+This extension for all Arduino lovers to be used in your projects. This extension has been created using Physicaloid library.
+
+Some highlights of this extension:
+
+- USB-Serial communication
+- upload a firmware to an Arduino
+- support on Android 3.1 or higher (need USB Host API feature)
+- does not require ROOT
+- support USB-Serial protocols : CDC-ACM, FTDI, Silicon Labs CP210x
+- support uploading firmware protocols : STK500, STK500V2
+
+Currently, this is just for testing which includes some basic things such as:
+
+- Open/Close connection
+- Read/Write from/to serial
+
+Other features that need to be included are:
+
+- Upload .hex files to Arduino
+- Support for upload files from assets folder
+
+**Download Extension**
+[Download](https://github.com/ElectronicCats/PhysicaloidLibrary/raw/master/com.pavitra.aix)
+
+**Credits:** Ricardo Rodriguez Garcia, thanks
+
+# Androd Library
+
 Android Library for communicating with physical-computing boards (e.g.Arduino, mbed)
 
 ![Android x Arduino](https://lh5.googleusercontent.com/-weC-lA-1rdw/UeaCzIrWR3I/AAAAAAAACno/u-ZapAmzkz8/s640/android_arduino.jpg)
